@@ -1,0 +1,2431 @@
+PR
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. . . . . 
+ P P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ P . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ . . . . .
+. . . . . 
+ P p P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. . . . . 
+ P P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. . . . . 
+ P P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+d . P . P 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . P . P 
+ . . . . .
+. d . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . d
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . d
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . d
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . P . . .
+. . . . . 
+ . . . . .
+. P . . . 
+ . . . . .
+. . . d . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . P . . .
+. . . . . 
+ . P . . .
+. . . . . 
+ . . . . .
+. . . d . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . d . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . P . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . d . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . P . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . d . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . P . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . d . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . P . . 
+ . . . . .
+. . . . d 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . P . .
+. . . . . 
+ . . . . .
+. . . . d 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . d . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . P . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . d . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. P . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . d . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. P . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . d . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ P . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . d . 
+ . . . . .
+. . . . . 
+ . . . . .
+d . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . d
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . P . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . d . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . P . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . d . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . P . . 
+ . . . . .
+. . . . d 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . P . .
+. . . . . 
+ . . . . .
+. . . . d 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . d . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . d
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . d .
+. . . . . 
+ . . . . .
+. . . . P 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . d . .
+. . . . P 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. . . . . 
+ P P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . P . P 
+ d . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . d . .
+. . . . P 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . P . P 
+ d . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . d
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . d
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . d . .
+. . . . P 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . d . .
+. . . . P 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . d . .
+. . . . P 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+d . P . P 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . d
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . p 
+ . . . P .
+. d . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . P
+. . . . . 
+ . . . . .
+. d . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . d .
+. . . . . 
+ . . . . P
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . d .
+. . . . P 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . .
+. . p . p 
+ . . . . .
+. . . . . 
+ . . . . .
+. . . . . 
+ . . . . d
+. . . . . 
+ . . . . .
+. . . . . 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ P . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ . . p . .
+. . . . . 
+ . P P P P
+P P . P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+. p p p p 
+ p p p p p
+p p p p p 
+ . P . . .
+. . . . . 
+ . . . P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+. p p p p 
+ p p p p p
+p p p p p 
+ . P . . .
+. . . . . 
+ . . . P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. . . . p 
+ . . . . .
+. . . . P 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. P P . . 
+ . . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ . . p . .
+. . P . . 
+ . . . P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ . . . . .
+. . P . . 
+ . . . P P
+P . P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. P . . . 
+ . P P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. . P . . 
+ P . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. . P P . 
+ P . . P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+. p p p p 
+ p p p p p
+p p p p p 
+ p . . . .
+. . P P . 
+ P P . P P
+P P . P P 
+ P P P P P
+P P P P P 
+ p . p p p
+p p p p p 
+ p p p p p
+p . p p p 
+ p . . . .
+P P P . . 
+ . . P P P
+P P . . P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. . P . . 
+ P . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p p p p p 
+ p P . . .
+. . . . . 
+ P . P P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p . p p p 
+ p P . . .
+. . . . . 
+ P . . P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+p p p p p 
+ . p p p p
+p . . p p 
+ p P . . .
+. . . . . 
+ . . . P P
+P P P P P 
+ P P P P P
+P P P P P 
+ p p p p p
+. p p p p 
+ p p p p p
+p . . p p 
+ p P . . .
+. . . . P 
+ . . . . P
+P P P P P 
+ P P P P P
+P P P P P 
+ . p p p p
+p p p p p 
+ p p p p p
+p . . p p 
+ p P . . .
+. . . . P 
+ . . . P P
+P P P P . 
+ P P P P P
+P P P P P 
+ . p p p p
+p p p p p 
+ P p p p p
+p . . p p 
+ p . . . .
+. . . . P 
+ . . . P P
+P P P P . 
+ P P P P P
+P P P P P 
+ . p p p p
+. p p p p 
+ . p p p p
+p p . p p 
+ p . . . .
+. . . . P 
+ . . . P P
+P P P P P 
+ P P P P .
+P P P P P 
+ . p p p p
+. . p p p 
+ p p p p p
+p p . p p 
+ p . . . .
+. . . . P 
+ . P . P P
+P P . P P 
+ P P P P .
+P P P P P 
+ . . p p p
+. p p p p 
+ p p p p p
+p p . p p 
+ p . . . .
+. P . . P 
+ . . . P P
+P P . P P 
+ P P P P .
+P P P P P 
+ . . p p p
+. p p p p 
+ p p p p p
+p p . p p 
+ . . . . .
+. . P . P 
+ . . . P P
+P . . P P 
+ P P P P .
+P P P P P 
+ . . p p p
+. p p p p 
+ p . p p p
+p p p p p 
+ . . . . .
+. . P P P 
+ . . . . P
+P . . P P 
+ P P P P .
+P P P P P 
+ . . p p p
+. . p p p 
+ p p p p p
+p p p p p 
+ . . . . .
+. . P P P 
+ . . . P P
+P . . P . 
+ P P P P .
+P P P P P 
+ . . p p p
+. . p p p 
+ p p p p p
+. p p p p 
+ p . . . .
+. . P P P 
+ . . P P P
+P . . . . 
+ P P P P .
+P P P P P 
+ . . p p p
+. . p p p 
+ . p p p p
+p p p p p 
+ p . . . .
+. . P P P 
+ . . P P P
+P . P . . 
+ P . P P .
+P P P P P 
+ . . p p p
+. . p p p 
+ . p p p p
+p . p p p 
+ . . . . .
+P . . P P 
+ . . P P P
+P . P . . 
+ P . P P .
+P P P P P 
+ . . p p p
+. . p p p 
+ . . p p p
+p p p p p 
+ . . . . .
+P . . P P 
+ P . P P P
+. . P . . 
+ P . P P .
+P P P P P 
+ . . p p p
+. . . p p 
+ . p p p p
+p p p p p 
+ . . . . .
+P P . P P 
+ . . P P P
+. . P . . 
+ P . P P .
+P P P P P 
+ . . . p p
+. . p p p 
+ . p p p p
+p p p p p 
+ . . . . .
+P P . P P 
+ . P P P P
+. . . . . 
+ P . P P .
+P P P P P 
+ . . . p p
+. . p p p 
+ . p p p p
+P p p p p 
+ . . . . .
+P . . P P 
+ . P P P P
+. . . . . 
+ P . P P .
+P P P P P 
+ . . . p p
+. . p p p 
+ . p p p p
+P P p p p 
+ . . . . .
+. . . P P 
+ . P P P P
+. . . . . 
+ P . P P .
+P P P P P 
+ . . . p p
+. . p p p 
+ . . p p p
+. . p p p 
+ . . . . .
+. P . P P 
+ . P P P P
+. . . . . 
+ P . P P .
+P P P P P 
+ . . . p p
+. . . p p 
+ . p p p p
+. . p p p 
+ . . . . .
+. P . P P 
+ . P P P P
+P . . . . 
+ . . P P .
+P P P P P 
+ . . . p p
+. . . p p 
+ . . p p p
+. p p p p 
+ . . . . .
+. P . P P 
+ . P P P P
+P . . P . 
+ . . . P .
+P P P P P 
+ . . . p p
+. . . p p 
+ . . p p p
+P . p p p 
+ . . . . .
+. . . P P 
+ . P P P P
+P . . P . 
+ . . . P .
+P P P P P 
+ . . . p p
+. . . p p 
+ . . p p p
+P . . p p 
+ . p . . .
+. P . P P 
+ . . P P P
+P . . P . 
+ . . . P .
+P P P P P 
+ . . . p p
+. . . p p 
+ . . p p p
+P . . p p 
+ . . . . .
+. P . P P 
+ . . P P P
+. . . P . 
+ . . . P .
+P P P P P 
+ . . . p p
+. . . p p 
+ . . . p p
+P . p p p 
+ . . . P .
+. P . P . 
+ . . P P P
+. . . P . 
+ . . . P .
+P P P P P 
+ . . . p p
+. . . p p 
+ . . . p p
+P . p . p 
+ . . . . P
+. P . P . 
+ . . P . P
+. . . P . 
+ . . . P .
+P P P P P 
+ . . . p p
+. . . . p 
+ . . p p p
+P . p . p 
+ . . . . P
+. P . P . 
+ . . P . P
+. . . P . 
+ . P . P .
+P . P P P 
+ . . . . p
+. . . p p 
+ . . p p p
+P . p . p 
+ . . . . P
+. P . P . 
+ . . P . P
+. . . P P 
+ . P . . .
+P . P P P 
+ . . . . p
+. . . p p 
+ . . . p p
+P . p p p 
+ . . . . P
+. P . P . 
+ . . P . P
+. . P P P 
+ . . . . .
+P . P P P 
+ . . . . p
+. . . . p 
+ . . p p p
+P . p p p 
+ . . . P P
+. P . . . 
+ . . P . P
+. . P P P 
+ . . . . .
+P . P P P 
+ . . . . p
+. . . . p 
+ . . p p p
+P . p . p 
+ . . . P P
+. P . . . 
+ . . P . .
+. . P P P 
+ . . . . .
+P . P P P 
+ . . . . p
+. . . . p 
+ . . p p p
+P . p . . 
+ . . . P P
+. P . . . 
+ . . . . .
+. . P P P 
+ . . . . .
+P . P P P 
+ . . . . p
+. . . . p 
+ . . . p p
+P . . . . 
+ . P . . P
+. P . . . 
+ . . . . .
+. . P P P 
+ . . . . .
+P . P P P 

@@ -1,11 +1,7 @@
 #ifndef CONF_DAM_H
 #define CONF_DAM_H
-#define DIM 10
 
-typedef struct coordonnee_s{
-	int ligne;
-	int colonne;
-}coord;
+#define DIM 10
 
 typedef struct configuration_s{
 	char damier[DIM][DIM];
@@ -19,11 +15,13 @@ typedef struct liste_configuration_s{
 	configuration * fin;
 }liste_configuration;
 
-configuration* conf_init();
-configuration* creer_conf();
 
+configuration* creer_conf(char damier[DIM][DIM]);
 liste_configuration* creer_liste_conf();
-void ajouter_conf();
-void supprimer_conf();
+int liste_conf_vide(liste_configuration *lc);
+
+void ajouter_conf(liste_configuration* lc, configuration* c);
+void supprimer_conf(liste_configuration* lc);
+
 
 #endif

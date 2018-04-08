@@ -1,6 +1,9 @@
 #ifndef PIECE_H
 #define PIECE_H
 
+#define J0 0
+#define J1 1
+
 typedef struct piece_s{
     int promu;
     int joueur;
